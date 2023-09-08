@@ -1,0 +1,24 @@
+%x=[1 2 3 4 5 6 7 8 9];
+%y=[-1 3 -2 7 8 9 3 6 8];
+%plot(x,y);
+%xlabel('x values');
+%ylabel('y values');
+%title('plot');
+%grid on;
+
+x=[1 2 3 4 5 6 7 8 9];
+y=[-1 3 -2 7 8 9 3 6 8];
+% plot(x,y,'m');
+% plot(x,y,'c');
+% plot(x,y,'r');
+% plot(x,y,'k');
+%plot(x,y,'--');
+%plot(x,y,':');
+% plot(x,y,'-.');
+% plot(x,y,'+');
+% plot(x,y,'o');
+% plot(x,y,'*');
+% plot(x,y,'.');
+% plot(x,y,'^');
+% plot(x,y,'s');
+% plot(x,y,'d');
